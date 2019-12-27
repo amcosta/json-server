@@ -1,0 +1,25 @@
+{
+  "auth": {},
+  "features": [
+    {
+      "id": 1,
+      "name": "feed",
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "name": "P2P",
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "name": "Boleto",
+      "is_active": false
+    },
+    {
+      "id": 4,
+      "name": "Saque 24h",
+      "is_active": true
+    }
+  ]
+}
